@@ -1,4 +1,7 @@
+from funcoesImposto import FuncoesImposto
+from pessoa import Pessoa
 
+pessoaFisica = Pessoa()
 
 quantidade = int(input("Digite o número de contribuíntes :"))
 listaNome = []
