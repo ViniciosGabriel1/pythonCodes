@@ -60,7 +60,7 @@ media_aluno2 = calcular_media(notas_aluno2)
 resultado_aluno2 = verificar_aprovacao(media_aluno2)
 
 print()
-print("Notas aluno 1 -->", notas_aluno1[1])
+print("Notas aluno 1 -->", notas_aluno1)
 print("Notas aluno 2 -->", notas_aluno2)
 print()
 print("Aluno 1:", resultado_aluno1)

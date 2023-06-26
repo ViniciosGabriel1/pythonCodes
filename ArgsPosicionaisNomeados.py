@@ -14,10 +14,14 @@ def minha_funcao(**kwargs):
         print(f'{chave}: {valor}')
 
 
-minha_funcao(nome='Alice', idade=25, cidade='São Paulo', cor='roxo', pe=40)
+minha_funcao(nome='Alice', idade=25, cidade='São Paulo')
 
+print()
+print()
 
 # Utilizando os dois tipos de argumentos
+
+
 def minha_funcao(*args, **kwargs):
     for arg in args:
         print(f'Argumento posicional: {arg}')
@@ -27,6 +31,9 @@ def minha_funcao(*args, **kwargs):
 
 
 minha_funcao(1, 2, 3, nome='Alice', idade=25, cidade='São Paulo')
+
+print()
+print()
 
 
 # exemplo mais completo utlizando os dois métodos de argumentos
