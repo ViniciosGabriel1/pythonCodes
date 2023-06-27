@@ -1,6 +1,8 @@
 def maior_que_cinco(numero):
     if numero > 5:
         return numero
+    elif numero == 5:
+        print("sao iguais")
     else:
         print('Nenhum é maior')
 
