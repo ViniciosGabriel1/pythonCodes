@@ -1,0 +1,54 @@
+2023-06-30 10:52:02,412 - INFO - Iniciando operação com 5 e 3
+2023-06-30 10:52:02,412 - INFO - Operação concluída. Resultado: 8
+2023-06-30 10:55:02,778 - INFO - Iniciando operação com 1.0 e 6.0
+2023-06-30 10:55:02,779 - INFO - Operação concluída. Resultado: 7.0
+2023-06-30 10:58:22,626 - INFO - Iniciando operação com 1.0 e 2.0
+2023-06-30 10:58:22,626 - INFO - Operação concluída. Resultado: 3.0
+2023-06-30 10:58:50,393 - INFO - Iniciando operação com 1.0 e 2.0
+2023-06-30 10:58:50,393 - INFO - Operação concluída. Resultado: 3.0
+2023-06-30 10:58:50,395 - INFO - None
+2023-06-30 10:59:20,449 - INFO - Iniciando operação com 1.0 e 2.0
+2023-06-30 10:59:20,450 - INFO - Operação concluída. Resultado: 3.0
+2023-06-30 11:05:36,273 - INFO - Iniciando operação com 5 e 3
+2023-06-30 11:05:36,273 - INFO - Resultado parcial da operação: 8
+2023-06-30 11:05:36,273 - INFO - Resultado final da operação: 16
+2023-06-30 11:16:21,319 - INFO - Iniciando operação com 5 e 3
+2023-06-30 11:16:21,320 - INFO - Resultado parcial da operação: 8
+2023-06-30 11:16:21,320 - INFO - Resultado final da operação: 16
+2023-06-30 11:16:23,606 - INFO - Iniciando operação com 5 e 3
+2023-06-30 11:16:23,606 - INFO - Resultado parcial da operação: 8
+2023-06-30 11:16:23,606 - INFO - Resultado final da operação: 16
+2023-06-30 11:16:29,198 - INFO - Iniciando operação com 5 e 3
+2023-06-30 11:16:29,198 - INFO - Resultado parcial da operação: 8
+2023-06-30 11:16:29,198 - INFO - Resultado final da operação: 16
+2023-06-30 11:16:48,344 - INFO - Iniciando operação com 5 e 3
+2023-06-30 11:16:48,345 - INFO - Resultado parcial da operação: 8
+2023-06-30 11:16:48,345 - INFO - Resultado final da operação: 16
+2023-06-30 11:17:23,528 - INFO - Iniciando operação com 5 e 3
+2023-06-30 11:17:23,529 - INFO - Resultado parcial da operação: 8
+2023-06-30 11:17:23,529 - INFO - Resultado final da operação: 16
+2023-06-30 11:17:23,529 - INFO - 16
+2023-06-30 11:19:09,638 - INFO - Iniciando operação com 5 e 3
+2023-06-30 11:19:09,638 - INFO - Resultado parcial da operação: 8
+2023-06-30 11:19:09,638 - INFO - Resultado final da operação: 16
+2023-06-30 11:19:09,639 - WARNING - 16
+2023-06-30 11:19:20,026 - INFO - Iniciando operação com 5 e 3
+2023-06-30 11:19:20,026 - INFO - Resultado parcial da operação: 8
+2023-06-30 11:19:20,026 - INFO - Resultado final da operação: 16
+2023-06-30 11:19:20,026 - WARNING - 16
+2023-06-30 11:19:34,973 - INFO - Iniciando operação com 5 e 3
+2023-06-30 11:19:34,973 - INFO - Resultado parcial da operação: 8
+2023-06-30 11:19:34,973 - INFO - Resultado final da operação: 16
+2023-06-30 11:19:34,973 - WARNING - 16
+2023-06-30 11:20:02,037 - INFO - Iniciando operação com 5 e 3
+2023-06-30 11:20:02,037 - INFO - Resultado parcial da operação: 8
+2023-06-30 11:20:02,037 - INFO - Resultado final da operação: 16
+2023-06-30 11:20:02,037 - WARNING - 16
+2023-06-30 11:20:23,059 - WARNING - Iniciando operação com 5 e 3
+2023-06-30 11:20:23,059 - WARNING - Resultado parcial da operação: 8
+2023-06-30 11:20:23,059 - WARNING - Resultado final da operação: 16
+2023-06-30 11:20:23,059 - WARNING - 16
+2023-06-30 11:44:56,702 - INFO - Iniciando divisão com 1 e 2
+2023-06-30 11:47:23,558 - INFO - Iniciando operação com 9.0 e 4.0
+2023-06-30 11:47:23,558 - INFO - Resultado parcial da operação: 13.0
+2023-06-30 11:47:23,558 - INFO - Resultado final da operação: 26.0

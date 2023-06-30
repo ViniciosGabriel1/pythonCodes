@@ -1,0 +1,12 @@
+2023-06-30 11:45:23,014 - INFO - Iniciando divisão com 6 e 7
+2023-06-30 11:45:24,486 - INFO - Iniciando operação com 8.0 e 9.0
+2023-06-30 11:45:46,087 - INFO - Iniciando divisão com 7879 e 3425
+2023-06-30 11:45:55,303 - INFO - Iniciando operação com 12453456.0 e 324143.0
+2023-06-30 11:45:55,303 - INFO - O operador - foi escolhido para o cálculo 
+2023-06-30 11:49:47,783 - INFO - Iniciando divisão com 12 e 65
+2023-06-30 11:49:59,462 - INFO - Iniciando operação com 1900.0 e 1265.0
+2023-06-30 11:49:59,462 - INFO - O operador * foi escolhido para o cálculo 
+2023-06-30 11:50:49,103 - INFO - Iniciando divisão com 1 e 2
+2023-06-30 11:50:55,191 - INFO - Iniciando operação com 18987.0 e 2364.0
+2023-06-30 11:50:55,191 - INFO - O operador * foi escolhido para o cálculo 
+2023-06-30 11:50:55,191 - INFO - O resultado é: 44885268.0

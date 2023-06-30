@@ -4,8 +4,7 @@ def pesquisar_informacao(arquivo, informacao):
         for linha in f:
             if informacao in linha:
                 return print("A informação foi encontrada")
-            else:
-                return print("A informação não foi encontrada")
+    return print("A informação não foi encontrada")
 
 # Salvar
 

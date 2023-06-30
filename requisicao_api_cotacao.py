@@ -10,4 +10,4 @@ print("Cotação Dólar em real : $",
       dic_requisicao['USDBRL']['bid'], " Reais")
 print("Cotação Euro em real : $", dic_requisicao['EURBRL']['bid'], " Reais")
 print("Cotação do BitCoin em real : $",
-      dic_requisicao['BTCBRL']['BRL'], " Reais")
+      dic_requisicao['BTCBRL']['bid'], " Reais")
